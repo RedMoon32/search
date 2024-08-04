@@ -1,0 +1,9 @@
+kafka:
+  brokers: "localhost:9092"
+  topic: "web-crawler-topic"
+
+kvstore:
+  path: "/home/red/projects/search/web-crawler/data/kvstore.db"
+
+storage:
+  path: "/home/red/projects/search/web-crawler/data/storage"
