@@ -1,6 +1,6 @@
 kafka:
-  brokers: "localhost:9092"
-  topic: "web-crawler-topic"
+  brokers: "172.18.0.2:9092"
+  topic: "web-crawl-urls"
 
 kvstore:
   path: "/home/red/projects/search/web-crawler/data/kvstore.db"
